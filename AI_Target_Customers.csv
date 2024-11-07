@@ -1,0 +1,201 @@
+Industry,Company Size,Annual Revenue (M$),Role,Adoption Stage,Spending Score (1-100)
+Tech,Medium,158,Data Scientist,Pilot,73
+Education,Medium,147,CEO,Exploring,26
+Retail,Medium,145,Engineer,Trial,47
+Education,Large,120,Data Scientist,Trial,86
+Education,Large,319,CEO,Adopted,56
+Finance,Small,275,CEO,Trial,94
+Retail,Small,92,Data Scientist,Trial,63
+Retail,Large,58,Engineer,Pilot,48
+Retail,Medium,439,Data Scientist,Exploring,61
+Education,Small,346,CEO,Exploring,81
+Tech,Large,229,Manager,Pilot,26
+Retail,Large,474,Manager,Adopted,36
+Education,Large,117,Data Scientist,Exploring,1
+Finance,Medium,318,CEO,Trial,8
+Tech,Large,279,Manager,Exploring,99
+Finance,Large,127,CEO,Trial,52
+Tech,Large,393,Data Scientist,Adopted,79
+Education,Large,396,Manager,Pilot,47
+Healthcare,Small,129,CEO,Exploring,56
+Tech,Small,58,Manager,Pilot,86
+Finance,Large,122,Data Scientist,Exploring,14
+Education,Medium,1,CEO,Trial,90
+Tech,Small,239,Manager,Pilot,28
+Healthcare,Large,290,Data Scientist,Exploring,87
+Healthcare,Small,96,Manager,Trial,78
+Retail,Small,126,Manager,Pilot,88
+Retail,Medium,118,Engineer,Pilot,2
+Finance,Large,48,Engineer,Exploring,26
+Tech,Large,89,Data Scientist,Exploring,14
+Tech,Medium,488,Engineer,Exploring,59
+Retail,Medium,237,Data Scientist,Trial,56
+Tech,Large,373,Engineer,Exploring,7
+Tech,Large,385,Manager,Pilot,3
+Healthcare,Medium,272,Data Scientist,Pilot,23
+Retail,Small,189,Data Scientist,Exploring,18
+Education,Small,487,Manager,Exploring,38
+Retail,Medium,192,Data Scientist,Adopted,99
+Education,Small,447,Data Scientist,Pilot,15
+Healthcare,Medium,69,Engineer,Trial,64
+Finance,Small,278,Data Scientist,Adopted,89
+Tech,Small,349,CEO,Exploring,28
+Healthcare,Large,247,Manager,Exploring,74
+Tech,Large,451,Engineer,Pilot,39
+Finance,Small,76,Engineer,Exploring,57
+Finance,Small,154,CEO,Trial,17
+Healthcare,Large,144,Manager,Pilot,86
+Finance,Large,435,Manager,Exploring,90
+Education,Large,485,Engineer,Pilot,44
+Finance,Medium,86,Data Scientist,Exploring,25
+Tech,Small,185,Engineer,Exploring,17
+Tech,Large,285,Manager,Exploring,13
+Tech,Small,462,CEO,Trial,84
+Tech,Medium,220,Engineer,Trial,25
+Education,Medium,69,Manager,Pilot,68
+Retail,Large,47,Engineer,Exploring,10
+Healthcare,Medium,497,Data Scientist,Exploring,67
+Tech,Small,94,Engineer,Trial,18
+Finance,Large,238,Engineer,Exploring,100
+Tech,Small,446,Manager,Trial,86
+Finance,Small,453,Manager,Exploring,34
+Finance,Medium,204,Manager,Pilot,8
+Tech,Medium,400,Engineer,Exploring,40
+Education,Medium,218,Data Scientist,Exploring,83
+Finance,Medium,474,CEO,Adopted,42
+Finance,Medium,432,CEO,Trial,41
+Tech,Large,341,Manager,Exploring,6
+Finance,Small,39,Manager,Exploring,52
+Finance,Small,100,Engineer,Adopted,26
+Tech,Small,289,CEO,Adopted,64
+Tech,Small,254,Manager,Trial,98
+Healthcare,Medium,222,Data Scientist,Adopted,59
+Education,Small,357,Data Scientist,Pilot,56
+Education,Large,23,Manager,Adopted,59
+Finance,Large,250,Manager,Pilot,70
+Education,Small,10,CEO,Trial,33
+Finance,Small,246,CEO,Trial,53
+Healthcare,Large,325,Engineer,Trial,22
+Tech,Large,100,CEO,Trial,21
+Tech,Medium,290,Data Scientist,Trial,70
+Tech,Large,180,Data Scientist,Pilot,70
+Education,Medium,223,Manager,Pilot,4
+Healthcare,Medium,394,CEO,Trial,94
+Education,Medium,250,Engineer,Adopted,75
+Education,Medium,147,Data Scientist,Exploring,62
+Healthcare,Medium,442,Data Scientist,Trial,62
+Healthcare,Small,96,Engineer,Adopted,94
+Healthcare,Large,257,Engineer,Exploring,95
+Healthcare,Medium,325,Data Scientist,Trial,24
+Tech,Large,493,Data Scientist,Trial,55
+Retail,Large,4,Engineer,Pilot,9
+Retail,Medium,16,Data Scientist,Exploring,3
+Healthcare,Small,280,Manager,Exploring,31
+Retail,Medium,336,Manager,Adopted,40
+Retail,Small,247,Engineer,Pilot,36
+Healthcare,Large,258,CEO,Pilot,24
+Retail,Small,497,Engineer,Pilot,95
+Education,Small,476,Engineer,Pilot,6
+Finance,Small,384,CEO,Exploring,66
+Finance,Large,160,CEO,Exploring,84
+Healthcare,Large,475,CEO,Trial,92
+Tech,Small,340,Manager,Trial,75
+Healthcare,Small,152,Data Scientist,Pilot,4
+Tech,Medium,396,Manager,Pilot,79
+Finance,Small,178,Data Scientist,Pilot,6
+Healthcare,Medium,163,Manager,Trial,94
+Education,Small,380,Data Scientist,Adopted,51
+Retail,Medium,33,Manager,Adopted,62
+Tech,Large,417,CEO,Trial,57
+Retail,Small,445,Engineer,Trial,66
+Retail,Small,179,Manager,Trial,79
+Healthcare,Small,427,Data Scientist,Trial,75
+Retail,Small,101,CEO,Trial,8
+Education,Medium,268,Manager,Trial,26
+Retail,Small,323,Manager,Pilot,51
+Healthcare,Large,65,CEO,Pilot,45
+Education,Large,417,Manager,Pilot,44
+Finance,Small,168,Engineer,Pilot,5
+Retail,Large,330,Manager,Trial,70
+Healthcare,Small,43,Engineer,Adopted,26
+Finance,Small,44,Engineer,Exploring,68
+Finance,Large,285,CEO,Trial,19
+Tech,Small,397,Manager,Exploring,84
+Education,Large,12,CEO,Adopted,97
+Retail,Medium,95,Manager,Pilot,20
+Healthcare,Small,302,Manager,Adopted,12
+Tech,Medium,386,Data Scientist,Trial,47
+Education,Large,253,Manager,Pilot,1
+Tech,Medium,499,CEO,Trial,90
+Education,Medium,242,Engineer,Pilot,14
+Education,Large,35,Manager,Exploring,64
+Retail,Medium,215,Data Scientist,Exploring,38
+Education,Medium,337,CEO,Exploring,37
+Tech,Large,90,Manager,Adopted,11
+Education,Medium,264,CEO,Trial,100
+Retail,Large,93,Data Scientist,Adopted,77
+Retail,Medium,410,Data Scientist,Exploring,3
+Tech,Large,458,CEO,Trial,33
+Finance,Large,90,Manager,Exploring,6
+Finance,Medium,418,Engineer,Adopted,50
+Education,Medium,115,Data Scientist,Adopted,10
+Healthcare,Medium,105,Manager,Adopted,5
+Education,Small,391,Manager,Exploring,23
+Tech,Small,196,Engineer,Trial,10
+Tech,Small,314,Data Scientist,Trial,44
+Tech,Large,114,Data Scientist,Exploring,2
+Tech,Medium,493,Manager,Trial,13
+Tech,Large,75,Manager,Exploring,40
+Retail,Small,413,Engineer,Trial,2
+Finance,Medium,376,Engineer,Pilot,84
+Tech,Large,420,Data Scientist,Pilot,65
+Healthcare,Medium,217,CEO,Adopted,63
+Healthcare,Large,277,Data Scientist,Pilot,73
+Healthcare,Medium,249,Manager,Pilot,17
+Healthcare,Small,164,Data Scientist,Pilot,9
+Retail,Small,394,CEO,Exploring,75
+Healthcare,Medium,357,Engineer,Pilot,15
+Tech,Large,457,CEO,Pilot,24
+Education,Small,408,CEO,Adopted,38
+Healthcare,Small,192,CEO,Pilot,35
+Retail,Small,227,Engineer,Pilot,94
+Retail,Medium,177,CEO,Trial,95
+Healthcare,Medium,99,CEO,Adopted,49
+Education,Large,496,CEO,Adopted,69
+Healthcare,Large,36,Manager,Adopted,62
+Retail,Large,466,CEO,Adopted,60
+Finance,Medium,497,Engineer,Adopted,50
+Tech,Medium,487,CEO,Adopted,78
+Retail,Large,96,CEO,Exploring,75
+Healthcare,Large,152,Engineer,Pilot,9
+Tech,Medium,151,CEO,Adopted,34
+Healthcare,Large,190,Engineer,Pilot,76
+Healthcare,Small,224,CEO,Pilot,99
+Finance,Medium,37,Engineer,Exploring,35
+Tech,Large,268,CEO,Adopted,1
+Tech,Medium,369,CEO,Trial,40
+Finance,Small,183,Manager,Exploring,64
+Retail,Medium,13,Manager,Trial,22
+Healthcare,Medium,279,CEO,Pilot,60
+Education,Medium,217,CEO,Pilot,64
+Healthcare,Medium,355,Data Scientist,Exploring,93
+Healthcare,Small,361,Engineer,Exploring,72
+Retail,Medium,286,Data Scientist,Trial,11
+Healthcare,Medium,273,Manager,Adopted,14
+Finance,Large,369,Manager,Trial,60
+Finance,Medium,62,Manager,Exploring,30
+Tech,Large,84,Manager,Trial,35
+Education,Small,368,CEO,Exploring,85
+Healthcare,Small,217,Manager,Trial,37
+Healthcare,Small,342,CEO,Exploring,5
+Retail,Small,397,CEO,Exploring,83
+Finance,Large,187,Manager,Exploring,78
+Education,Medium,19,Manager,Adopted,26
+Tech,Small,177,Engineer,Trial,62
+Finance,Medium,100,Data Scientist,Trial,4
+Tech,Large,396,Manager,Trial,89
+Retail,Large,445,Engineer,Exploring,42
+Retail,Large,233,Engineer,Trial,89
+Healthcare,Small,403,Data Scientist,Trial,18
+Education,Medium,76,CEO,Exploring,40
+Tech,Medium,265,Manager,Pilot,72
